@@ -1,0 +1,18 @@
+Interviewer - Mohmd Imran 
+Time  - 10:00 AM
+
+Concept
+--------------------------------------
+what is Semantic html?
+What are types of Postions??
+What is difference between hidden and none 
+What are Input types??
+
+
+Code
+---------------------------------------
+Make app which change the tags on click 
+Add padding on click, 
+Add border on click 
+Do visibility hidden on click 
+Create two objects print there all values.
