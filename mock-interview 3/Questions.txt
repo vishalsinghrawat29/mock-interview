@@ -1,0 +1,14 @@
+Interviewer - Bilal Mansuri
+Time  - 3:55 PM
+
+Concept
+--------------------------------------
+Semantic html
+Ways of accessing html in JS like query selector 
+Good commit messages
+
+
+
+Explain
+---------------------------------------
+Explain plaindrome date app
