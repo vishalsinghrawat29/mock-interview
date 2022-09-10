@@ -1,0 +1,18 @@
+Interviewer - Keshav Gupta 
+Time  - 9:15 PM
+
+Concept
+--------------------------------------
+Inline vs Inline block element
+
+
+Code
+---------------------------------------
+As you type in input field for each char it reduce the 10 by 1 and after typing char Mean reaching the no at 0
+After that tho number represent in red color
+Also when deleting char it come back to black color
+
+
+Explain
+---------------------------------------
+Explain cash register app
