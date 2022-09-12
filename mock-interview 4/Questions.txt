@@ -1,0 +1,15 @@
+Interviewer - Rudra Konar
+Time  - 6:30 PM, 10 Sep 2022
+
+Concept
+--------------------------------------
+Virtual dom
+Semantic tag
+Declarative
+
+
+Code
+---------------------------------------
+Take stock api and print all the data name 
+And handle error in it
+
