@@ -1,0 +1,18 @@
+Interviewer - Bharat Chotwani
+Time  - 3:00 PM, 13 Sep 2022
+
+Concept
+--------------------------------------
+Semantic tag vs non Semantic tag
+innerHTML vs innerText
+Id vs class
+head vs Body tag
+What is meta tags 
+
+
+Code
+---------------------------------------
+Create a input field
+If password is greater than 10 print success or make input filed border in green color
+Otherwise print error and make input field border in red color.
+
