@@ -1,0 +1,17 @@
+Interviewer - Devathi N Nithin
+Time  - 8:30 PM, 13 Sep 2022
+
+Concept
+--------------------------------------
+1. Meta tags
+2. Semantic vs non Semantic 
+3. Why we use script at bottom of html
+4. Git vs github
+
+
+Code
+---------------------------------------
+You will enter a name as input from your app and send this API a request with the name along with it (this will be the final URL :
+https://otpgenerator.ishanjirety.repl.co/get-otp?name=
+on button click. In the response, you will get an OTP which should be shown on the screen.
+
